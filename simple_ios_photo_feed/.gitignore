@@ -12,7 +12,6 @@ tools/
 xcuserdata/
 
 ## Obj-C/Swift specific
-Info.plist
 *.hmap
 
 ## App packaging
